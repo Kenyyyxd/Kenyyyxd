@@ -14,10 +14,10 @@
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
 </a> 
 <a href="www.linkedin.com/in/kaacuna13">
-<img src="https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+<img src="https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
   <a href="kenyyyxd.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+<img src="https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=todoist&logoColor=white" />
 </a> 
 </br></br>
 </div>
