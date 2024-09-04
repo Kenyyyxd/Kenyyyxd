@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **PHP, Python**
 
-- 👨‍💻 All of my projects are available at [kenyyyxd.github.io/Portfolio/](kenyyyxd.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [kenyyyxd.github.io/Portfolio/](https://kenyyyxd.github.io/Portfolio/)
 
 - 📫 How to reach me **k.acuna1398@gmail.com**</br></br>
 
