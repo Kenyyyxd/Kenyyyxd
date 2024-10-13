@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ken+Acuña!;" /></h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3></br>
+<h3 align="center">A passionate frontend web developer from Philippines</h3></br>
 
 <img align="right" alt="coding" width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWh1emY1bHVpM2dsYTJoa2c5OW1vN3l2ajA3M3h3ZmJ0MXJxdmNmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/elrFAUtV7ZOH7TSPhF/giphy.webp">
 
