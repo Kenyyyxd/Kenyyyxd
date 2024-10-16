@@ -7,7 +7,7 @@
 
 <img align="right" alt="coding" width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWh1emY1bHVpM2dsYTJoa2c5OW1vN3l2ajA3M3h3ZmJ0MXJxdmNmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/elrFAUtV7ZOH7TSPhF/giphy.webp">
 
-- 🌱 I’m currently learning **JavaScript & PHP**
+- 🌱 I’m currently learning **React js**
 
 - 👨‍💻 All of my projects are available at [kenyyyxd.github.io/Portfolio/](https://kenyyyxd.github.io/Portfolio/)
 
